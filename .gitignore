@@ -1,0 +1,11 @@
+node_modules/
+my-app/node_modules/
+
+.idea/
+
+dist/
+build/
+
+.env
+.env.*
+!.env.example
